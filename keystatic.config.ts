@@ -4,8 +4,8 @@ export default config({
   storage: {
     kind: "github",
     repo: {
-      owner: "",
-      name: "roman-koshchei",
+      name: "content-starter",
+      owner: "roman-koshchei",
     },
   },
   collections: {
